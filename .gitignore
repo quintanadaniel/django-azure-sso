@@ -2,3 +2,6 @@
 .vscode
 utils/public_key.pem
 utils/private_key.pem
+
+venv/
+.env
