@@ -8,3 +8,5 @@ Tasks to do during this project:
 
 - [ ] Created a project.
 - [ ] Configure an environment and install the lib necessaries.
+- [ ] Create new application.
+- [ ] Configure SSO with Azure and Microsoft Graph.
